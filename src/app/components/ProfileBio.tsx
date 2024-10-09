@@ -1,3 +1,7 @@
+/**
+ * @todo - determine where to handle max 80 chars
+ */
+
 type BioProps = {
     /**
      * the bio text

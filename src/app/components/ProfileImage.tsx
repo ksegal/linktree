@@ -1,4 +1,5 @@
 import Image from "next/image";
+import styled from "styled-components";
 
 /**
  * @todo make other aspects of image (such as width, shape) customizable
@@ -14,8 +15,21 @@ type ImageProps = {
     altText: string;
 }
 
+const StyledContainer = styled.div`
+    position: relative;
+    width: 100px;
+    height: 100px;
+`;
+
+const StyledImage = styled(Image)`
+    border-radius: 50px;
+    object-fit: contain;
+`;
+
 export const ProfileImage: React.FC<ImageProps> = ({ imageUrl, altText }) => {
     return (
-        <Image src={imageUrl} style={{ objectFit: 'contain', borderRadius: '50px' }} width={100} height={100} alt={altText} />
+        <StyledContainer>
+            <StyledImage src={imageUrl} fill alt={altText} />
+        </StyledContainer>
     );
 }

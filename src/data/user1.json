@@ -23,7 +23,7 @@
         },
         {
             "id": 4,
-            "title": "stream GUTS (spilled)",
+            "title": "Stream GUTS (spilled)",
             "linkUrl": "https://oliviarodrigo.lnk.to/GUTSspilled",
             "imageUrl": "https://ugc.production.linktr.ee/d837f21e-95f1-444d-a205-3ce5c51c5704_Screenshot-2024-03-19-at-8.00.05-PM.png?io=true&size=thumbnail-stack-v1_0"
         },
@@ -36,13 +36,16 @@
     ],
     "socials": [
         {
-            "instagram": "https://instagram.com/oliviarodrigo"
+            "type": "instagram",
+            "socialUrl": "https://instagram.com/oliviarodrigo"
         },
         {
-            "youtube": "https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg"
+            "type": "youtube",
+            "socialUrl": "https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg"
         },
         {
-            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=jUmPgn0jTPiZW-6vJOVy9g"
+            "type": "spotify",
+            "socialUrl": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=jUmPgn0jTPiZW-6vJOVy9g"
         }
     ]
 }
