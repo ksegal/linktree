@@ -38,10 +38,10 @@ export const ProfileLinkRowContainer = styled.div`
 
 const StyledLinkRow = styled.div<{ $buttonBackgroundColor?: string; $buttonTextColor?: string; }>`
     align-items: center;
-    background-color: ${props => props.$buttonBackgroundColor ? props.$buttonBackgroundColor : "#FFFFFF"};
+    background-color: ${(props) => props.$buttonBackgroundColor || "#FFFFFF"};
     border: 2px solid purple;
     border-radius: 36px;
-    color: ${props => props.$buttonTextColor ? props.$buttonTextColor : "#000000"};
+    color: ${(props) => props.$buttonTextColor || "#000000"};
     display: flex;
     padding: 16px;
     margin-bottom: 8px;

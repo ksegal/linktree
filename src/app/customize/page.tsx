@@ -43,6 +43,10 @@ const StyledButtonContainer = styled.div`
 
 export default function CustomUIPage() {
 
+    /**
+     * todo - tie state to application level storage such that it updates the different page
+     */
+
     const [colorValue, setColorValue] = useState('#FFFFFF');
     const [buttonTextColorValue, setButtonTextColorValue] = useState('#000000');
 
