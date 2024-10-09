@@ -1,0 +1,48 @@
+{
+    "name": "Olivia Rodrigo",
+    "bio": "GUTS - out now",
+    "imageUrl": "https://ugc.production.linktr.ee/659ebfef-3c9c-4231-ac6f-381bc5737d19_olivia-rodrigo.jpeg?io=true&size=avatar-v3_0",
+    "links": [
+        {
+            "id": 1,
+            "title": "Shop GUTS world tour merchandise",
+            "linkUrl": "https://oliviarodrigo.lnk.to/GUTSworldtourmerch",
+            "imageUrl": "https://ugc.production.linktr.ee/1c027379-a12c-493e-a6ba-52465eeb86aa_Screenshot-2024-01-31-at-4.08.31-PM.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "id": 2,
+            "title": "Save Olivia Rodrigo: GUTS World Tour on Netflix",
+            "linkUrl": "http://netflix.com/oliviarodrigo",
+            "imageUrl": "https://ugc.production.linktr.ee/e249d89a-c3b5-4ca6-bbc8-80c627d987b9_Screenshot-2024-10-07-at-8.09.57-AM.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "id": 3,
+            "title": "GUTS world tour",
+            "linkUrl": "https://store.oliviarodrigo.com/pages/gutsworldtour",
+            "imageUrl": "https://ugc.production.linktr.ee/6956b1d8-1027-4e52-92db-3a33a9f52d80_Screenshot-2023-09-13-at-6.58.38-AM.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "id": 4,
+            "title": "stream GUTS (spilled)",
+            "linkUrl": "https://oliviarodrigo.lnk.to/GUTSspilled",
+            "imageUrl": "https://ugc.production.linktr.ee/d837f21e-95f1-444d-a205-3ce5c51c5704_Screenshot-2024-03-19-at-8.00.05-PM.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "id": 5,
+            "title": "Register to vote",
+            "linkUrl": "https://linktr.ee/s/vote",
+            "imageUrl": "https://ugc.production.linktr.ee/f5e72f0d-2d99-4e67-948b-280493e43001_FgArahTX0AYr0zb.jpeg?io=true&size=thumbnail-stack-v1_0"
+        }
+    ],
+    "socials": [
+        {
+            "instagram": "https://instagram.com/oliviarodrigo"
+        },
+        {
+            "youtube": "https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg"
+        },
+        {
+            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=jUmPgn0jTPiZW-6vJOVy9g"
+        }
+    ]
+}
